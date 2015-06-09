@@ -6,7 +6,7 @@ D3.jsとTypeScript書いてみた。
 ```bash
 $ npm install
 $ bower install 
-$ tsd reinstall
+$ tsd reinstall
 $ node app
 ```
 
