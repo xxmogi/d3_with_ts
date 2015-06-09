@@ -1,0 +1,14 @@
+{
+  "name": "d3js_example",
+  "version": "1.0.0",
+  "description": "example a d3js with typescript",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Takashi Mogi <xxmogi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "path": "^0.11.14",
+    "serve-static": "^1.9.3"
+  }
+}
