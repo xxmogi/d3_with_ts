@@ -1,5 +1,4 @@
-/// <reference path="../typings/d3/d3.d.ts" />
-
+/// <reference path="../../typings/d3/d3.d.ts" />
 class Main {
 	private h: number = 200;
 	private w: number = 400;
@@ -17,7 +16,7 @@ class Main {
 
 
 	public draw(): void {
-		var color: Function = d3.scale.category20b();
+		var color: Function = d3.scale.category20();
 
 		var svg: d3.Selection<number> = d3.select("body")
 			.append("svg")

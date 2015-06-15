@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "command": "gulp",
+    "isShellCommand": true,
+    "showOutput": "silent",
+    "args": [
+        "--no-color"
+    ],
+    "tasks": [ 
+         {
+             "taskName": "default",
+             "isWatching": true,
+             "showOutput": "silent"
+          }
+   ]
+}
